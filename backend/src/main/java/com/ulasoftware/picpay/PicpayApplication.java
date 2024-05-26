@@ -1,13 +1,13 @@
-package com.ulasoftware.picpaychallege;
+package com.ulasoftware.picpay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PicpaychallegeApplication {
+public class PicpayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PicpaychallegeApplication.class, args);
+		SpringApplication.run(PicpayApplication.class, args);
 	}
 
 }

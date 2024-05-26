@@ -1,10 +1,10 @@
-package com.ulasoftware.picpaychallege;
+package com.ulasoftware.picpay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PicpaychallegeApplicationTests {
+class PicpayApplicationTests {
 
 	@Test
 	void contextLoads() {
